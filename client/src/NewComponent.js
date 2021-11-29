@@ -4,8 +4,8 @@ const newComponent = () => {
   return (
     <div>
       Doing some stuff in here
-      <span>alrighty then</span>
-      <span>Trying this again</span>
+      <span>Putting something in here to cause a conflict</span>
+      <span>Putting something in here to cause a conflict</span>
     </div>
   );
 };
